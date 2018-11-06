@@ -13,9 +13,8 @@
 
 ## Weight of Evidence
 
-$$
-WeightofEvidence = ln(\frac{DistributionGood_i}{DistributionBad_i})
-$$
+![equation](http://latex.codecogs.com/gif.latex?WeightofEvidence%3Dln%28%5Cfrac%7BDistributionGood_i%7D%7BDistributionBad_i%7D%29)
+
 
 If you examine both information value and weight of evidence carefully then you will notice that both these values will break down when either the distribution good or bad goes to zero. A mathematician will hate it. The assumption, a fair one, is that this will never happen while a scorecard development because of the reasonable sample size. A word of caution, if you are developing non-standardized scorecards with smaller sample size use IV carefully.(**?????**)
 

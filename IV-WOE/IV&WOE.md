@@ -3,14 +3,12 @@
 - Information value is a vary useful concept for variable selection during the model building.
 - The formula for information value is shown below:
 
-$$
-IV=\sum(DistributionGood_i-DistributionBad_i)\times ln(\frac{DistributionGood_i}{DistibutionBad_i})
-$$
+![equation](http://latex.codecogs.com/gif.latex?IV%3D%5Csum%28DistributionGood_i-DistributionBad_i%29%5Ctimes+ln%28%5Cfrac%7BDistributionGood_i%7D%7BDistibutionBad_i%7D%29)  
 
-$$
-IV = \sum(DistributionGood_i-DistributionBad_i)\times WOE_i
-$$
+(Use [this site](https://www.url-encode-decode.com/) to encode fomula in latex style.)
 
+
+![equation](http://latex.codecogs.com/gif.latex?IV%3D%5Csum%28DistributionGood_i-DistributionBad_i%29%5Ctimes+WOE_i)
 
 
 ## Weight of Evidence

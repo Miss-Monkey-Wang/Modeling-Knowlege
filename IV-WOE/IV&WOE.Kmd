@@ -4,7 +4,7 @@
 - The formula for information value is shown below:
 
 $$
-IV = \sum(DistributionGood_i-DistributionBad_i)\times ln(\frac{DistributionGood_i}{DistibutionBad_i})
+IV=\sum(DistributionGood_i-DistributionBad_i)\times ln(\frac{DistributionGood_i}{DistibutionBad_i})
 $$
 
 $$

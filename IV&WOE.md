@@ -21,9 +21,9 @@ $$
 
 If you examine both information value and weight of evidence carefully then you will notice that both these values will break down when either the distribution good or bad goes to zero. A mathematician will hate it. The assumption, a fair one, is that this will never happen while a scorecard development because of the reasonable sample size. A word of caution, if you are developing non-standardized scorecards with smaller sample size use IV carefully.(**?????**)
 
-![1541485526126](/home/wangli/.config/Typora/typora-user-images/1541485526126.png)
+![IV$WOE](IV&WOE.png)
 
 Now the question is how to interpret this value of IV?  The answer is the rule of thumb described below.
 
-![1541485877943](/home/wangli/.config/Typora/typora-user-images/1541485877943.png)
+![IV](IV.png)
 
